@@ -1,1 +1,3 @@
-# PP2_LABS
+# Programming Principles 2
+
+Lab exercises
